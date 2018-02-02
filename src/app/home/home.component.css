@@ -1,0 +1,10 @@
+.product-grid {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 -8px;
+}
+
+nga-product-item {
+  margin: 0 8px 16px;
+  /*flex-basis: calc(10% - 16px);*/
+}
